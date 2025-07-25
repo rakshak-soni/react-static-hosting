@@ -17,3 +17,4 @@ phases:
         - pwd
         - ls -la
         - ls -la build
+        - aws s3 cp --recursive build/ s3://react-app-static-host/
