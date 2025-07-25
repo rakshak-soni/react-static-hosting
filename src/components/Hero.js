@@ -10,12 +10,12 @@ function Hero() {
     }}>
       <img
         src="/profile.jpg"
-        alt="Rocky"
+        alt="Rocky's profile picture"
         style={{ width: 150, borderRadius: '50%', border: '4px solid #ccc' }}
       />
       <h1 style={{ margin: '1rem 0 0.5rem' }}>Hi, I'm Rocky 👋</h1>
       <p style={{ fontSize: '1.1rem', margin: 0 }}>
-        MSc Data Science | Cloud & Data Engineer | Backend-Developer
+        MSc Data Science | Cloud & Data Engineer hbubhli
       </p>
     </div>
   );
