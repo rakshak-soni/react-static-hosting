@@ -16,6 +16,7 @@ function Hero() {
       <h1 style={{ margin: '1rem 0 0.5rem' }}>Hi, I'm Rocky 👋</h1>
       <p style={{ fontSize: '1.1rem', margin: 0 }}>
         MSc Data Science | Cloud & Data Engineer | Open Source Contributor
+        this is my react app
       </p>
     </div>
   );
